@@ -15,7 +15,7 @@ pip install mailtarget_sdk
 or
 You can clone this repository and install it manual to your env
 ```sh
-git clone https://
+git clone https://github.com/wisnuekas/mailtarget-python-sdk
 cd mailtarget-pyhton-sdk
 pip install .
 ```
