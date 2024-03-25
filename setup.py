@@ -5,11 +5,11 @@ setup(
     name='mailtarget_sdk',
     version='0.1.0',
     author='Wisnu Eka Saputra',
-    author_email='wisnu.eka@mailtarget.co',
+    author_email='wisnueka11@gmail.com',
     description='SDK Python untuk Mailtarget API',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='URL repository Anda',
+    url='https://github.com/wisnuekas/mailtarget-python-sdk',
     packages=find_packages(),
     install_requires=[
         'requests',
